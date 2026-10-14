@@ -1,0 +1,25 @@
+# macOS / editor
+.DS_Store
+.vscode/
+tempCodeRunnerFile.py
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environment
+SDC/
+.venv/
+venv/
+env/
+
+# Data Kaggle (tidak di-commit, unduh manual)
+data/*.csv
+data/*.zip
+dataset/
+
+# Artefak besar / hasil run
+models/*.joblib
+models/*_metrics.json
+submission.csv

@@ -1,0 +1,7 @@
+model,strategy,f1_macro,std,detik
+logreg,native,0.4485,0.0014,5.5792
+logreg,ovr,0.4434,0.0009,3.1387
+logreg,ovo,0.4484,0.0011,2.8781
+hgb,native,0.4798,0.0016,5.7205
+hgb,ovr,0.4693,0.0003,10.8185
+hgb,ovo,0.4832,0.0026,10.7536
